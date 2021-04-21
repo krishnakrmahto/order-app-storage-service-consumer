@@ -1,4 +1,4 @@
-package com.course.kafka.broker.service;
+package com.course.kafka.broker.consumer;
 
 import com.course.kafka.broker.message.DiscountMessage;
 import com.course.kafka.broker.message.PromotionMessage;
